@@ -46,6 +46,8 @@ Using `http://localhost:3001`, the following endpoints can be used:
 
 GET, POST, PUT, and DELETE requests can be made to each of these.
 
+Walkthrough: https://watch.screencastify.com/v/ugHBaT2o8CNyXhsXe0q0
+
 <img width="996" alt="Screenshot 2023-08-21 at 11 46 20 AM" src="https://github.com/iggy-ziggy/e-commerce-back-end/assets/128410000/81614468-bd9c-4d82-859d-4285c0f68bd4">
 <img width="685" alt="Screenshot 2023-08-21 at 11 47 30 AM" src="https://github.com/iggy-ziggy/e-commerce-back-end/assets/128410000/2586ffc2-cbc5-4f92-86ff-4157fbf0c95e">
 <img width="660" alt="Screenshot 2023-08-21 at 11 47 47 AM" src="https://github.com/iggy-ziggy/e-commerce-back-end/assets/128410000/8dab4ccf-56e6-4f03-856e-fef8396844ca">
